@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("lv_cmake")
+project ("p3plus_hmi")
 
 # Include sub-projects.
-add_subdirectory ("lv_cmake")
+add_subdirectory ("hmi_app")
